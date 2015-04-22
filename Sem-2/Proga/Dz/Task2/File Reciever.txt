@@ -1,0 +1,9 @@
+All names of things that are defined are identifiers.
+ An identifier consists of 255 significant characters letter
+s, digits and the underscore character, from which the first 
+must be an alphanumeric character, or an underscore.
+ As you may expect, constants must be definable at compile-t
+ime.
+ However, Pascal was also designed so that it could be compi
+led in 1 pass from top to bottom the reason being to make com
+piling fast and simple.
